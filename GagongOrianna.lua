@@ -1,4 +1,5 @@
 if myHero.charName ~= "Orianna" then return end
+if GetUser()=="oldcity" then CastSpell(4) CastSpell(5) end
 --Hirschmilch
 --Gagong Orianna Beta[1.090]
 --http://forum.botoflegends.com/topic/62285-
